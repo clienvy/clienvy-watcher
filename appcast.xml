@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Clienvy Watcher</title>
+    <description>Updates voor Clienvy Watcher</description>
+    <language>nl</language>
+    <item>
+      <title>Versie 0.1.0</title>
+      <pubDate>Thu, 01 Oct 2026 21:14:23 +0200</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Eerste versie van Clienvy Watcher: bijhouden welke programma&#x27;s en Chrome-pagina&#x27;s je gebruikt, dagoverzicht in het menubalk-paneel, MCP-koppeling met Claude voor urenregistratie in Clienvy, automatische updates.</li></ul>]]></description>
+      <enclosure url="https://github.com/clienvy/clienvy-watcher/releases/download/v0.1.0/Clienvy-Watcher-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="zpYbanqRzh4lpw7pQ8AVeqFdn/IEWXoZPNqEn0cUGV4G8eciTHC+wEMwwF7o3iY9v72oNp0YE77D+SkaAEApCw==" length="2852710"/>
+    </item>
+  </channel>
+</rss>
